@@ -1,0 +1,103 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #fafafa;
+    background-color: #3a3a3a;
+    display: flex;
+    flex-flow: column;
+    height: 1vh;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+a {
+    color: #ffa500;
+    text-decoration: none;
+}
+
+h1{
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 4.375em;
+    letter-spacing: -2px;
+    margin: 0.2em 0;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+p {
+    font-size: 1em;
+    text-align: left;
+}
+
+.mainWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1% 15%;
+    background-color: #fafafa;
+    color: #3a3a3a;
+}
+
+main {
+    padding: 1.5em;
+    text-align: left;
+    min-width: 50%;
+    max-width: 80%;
+    margin: 0 auto;
+    min-height: 100%;
+    flex-grow: 1;
+}
+
+article {
+    flex-grow: 1;
+}
+
+footer {
+    color: #fafafa;
+    background-color: #2a2a2a;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header, main, footer {
+    flex-shrink: 0;
+}
+
+
+.navList {
+    list-style: none;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+.uxFlow{
+    color: #fafafa;
+    background-color: #2a2a2a;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navItem {
+    display: inline;
+    margin: 0 5px;
+}
+
