@@ -8,7 +8,7 @@
               <ContentFour></ContentFour>
               <ContentCenter></ContentCenter>
               <!-- Each piece of content is basically a flex-box -->
-
+              <ContentCard></ContentCard>
           </v-layout>
         </v-container>
 
@@ -24,6 +24,7 @@ import Navbar from './sandbox/Nav';
 import Content from './sandbox/Content';
 import ContentFour from './sandbox/ContentFour';
 import ContentCenter from './sandbox/ContentCenter';
+import ContentCard from './sandbox/ContentCard';
 
 export default {
   name: "App",
@@ -31,7 +32,8 @@ export default {
     Navbar,
     Content,
     ContentFour,
-    ContentCenter
+    ContentCenter,
+    ContentCard
   },
   data: () => ({
   })
