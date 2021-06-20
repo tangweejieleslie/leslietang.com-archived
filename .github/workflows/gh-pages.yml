@@ -21,8 +21,8 @@ jobs:
       - name: Get Theme 
         run: git clone https://github.com/darshanbaral/sada.git
 
-      - name: Init Theme as Module
-        run: hugo mod init github.com/darshanbaral/sada
+      # - name: Init Theme as Module
+      #   run: hugo mod init github.com/darshanbaral/sada
       
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
