@@ -1,3 +1,141 @@
-baseURL = "http://example.org/"
+baseURL = "https://leslietang.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "sada"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    name = "leslietang.com"
+    title = "Leslie Tang"
+    author = "Leslie Tang"
+    description = "Deliberate Generalist."
+    copyright = "Custom copyright message"
+    theme = "dark" # `dark` or `light`
+    useResources = false
+
+    # Profile section
+    [params.profile]
+        name = "Leslie TANG"
+        photo = "images/profile.png"
+
+    # Section for links to social websites
+    [params.social]
+        title = "Links"
+
+        [[params.social.list]]
+        icon = "fab fa-linkedin-in"
+        url = "https://www.linkedin.com/in/leslie-tang/"
+        title = "LinkedIn"
+
+        [[params.social.list]]
+        icon = "fab fa-github"
+        url = "https://github.com/tangweejieleslie"
+        title = "GitHub"
+
+    # Education section
+    [params.education]
+        title = "Education"
+
+        [[params.education.list]]
+        degree = "Bachelors in Computer Science (Honors)"
+        college = "National University of Singapore (NUS)"
+        dates = "2016 - 2020"
+
+    # Languages section
+    [params.language]
+        title = "Languages"
+
+        [[params.language.list]]
+        language = "English"
+        level = "Fluent"
+				
+        [[params.language.list]]
+        language = "Mandarin"
+        level = "Informal Conversational"
+
+    # Interests section
+    [params.hobbies]
+        title = "Hobbies"
+
+        [[params.hobbies.list]]
+        interest = "Reading"
+
+        [[params.hobbies.list]]
+        interest = "Writing"
+		
+		[[params.hobbies.list]]
+        interest = "Photography"
+
+		[[params.hobbies.list]]
+        interest = "Tennis"
+
+        [[params.hobbies.list]]
+        interest = "围棋 (Wei Qi/Go/Igo/Baduk)"
+
+    [params.aboutme]
+        description = "I believe becoming a generalist is a good way to bridge gaps between people from various disciplines. It also helps in connecting dots. I pride myself in my ability to maintain a macro perspective, and in my strategic thinking."
+
+    # Experiences section
+    [params.experiences]
+        title = "Experiences"
+
+        [[params.jobs.list]]
+        position = "Software Quality Assurance Engineer"
+        dates = "2020 - *Present*"
+	    link = "https://careers.shopee.sg/job-detail/1680"
+        company = "Shopee Pte Ltd"
+        details = "Responsible for **ensuring Software Quality** from both End Users and System perspectives through Test Case Design, and Test Case Execution (API Testing, Manual Testing, End-to-End System Testing)."
+
+        [[params.jobs.list]]
+        position = "Senior Research Analyst"
+        dates = "2014 - 2016"
+		link = "https://www.mindef.gov.sg/"
+        company = "MINDEF Singapore"
+        details = "Responsible for discovering actionable patterns and insights, and mentoring new Research Analysts. Focused on **Systems improvement** to level up the processes in the workplace. Collaborated with Statisticians, Operations Team, and other Stakeholders in identifying requirements and implementation of new innovations."
+
+        [[params.jobs.list]]
+        position = "Geospatial Research Analyst"
+        dates = "2012 - 2014"
+		link = "https://www.mindef.gov.sg/"
+        company = "MINDEF Singapore"
+        details = "Responsible for **discovering actionable patterns** and insights by working with data such as geospatial, statistics, and news sources."
+
+    # Projects section
+    [params.projects]
+        title = "Projects"
+
+        [[params.projects.list]]
+        title = "Software QA Tools"
+        url = "#"
+        description = "Description of the *awesome* project 1"
+		
+		[[params.projects.list]]
+        title = "Geospatial Data Pipeline"
+        url = "#"
+        description = "Description of the **awesome** project 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+
+    # Skills section
+    [params.skills]
+        title = "Skills"
+
+        [[params.skills.list]]
+        skill = "Software Quality Assurance"
+        skillrating = 95 # out of 100
+
+        [[params.skills.list]]
+        skill = "Technical Writing"
+        skillrating = 90
+
+        [[params.skills.list]]
+        skill = "Go (Programming Language)"
+        skillrating = 80 # out of 100
+
+        [[params.skills.list]]
+        skill = "Geospatial Analysis"
+        skillrating = 70
+
+        [[params.skills.list]]
+        skill = "React.js"
+        skillrating = 60
+		
+
+ 
