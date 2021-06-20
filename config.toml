@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 theme = "sada"
+relativeURLs = true
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
