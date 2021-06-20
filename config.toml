@@ -1,7 +1,7 @@
 [module]
 
   [[module.imports]]
-    path = "github.com/darshanbaral/sada"
+    path = "https://github.com/darshanbaral/sada"
 
 baseURL = "https://leslietang.com/"
 languageCode = "en-us"
