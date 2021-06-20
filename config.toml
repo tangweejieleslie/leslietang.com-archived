@@ -1,9 +1,4 @@
-[module]
-
-  [[module.imports]]
-    path = "https://github.com/darshanbaral/sada"
-
-baseURL = "https://leslietang.com/"
+baseURL = "/"
 languageCode = "en-us"
 theme = "sada"
 disableKinds = ["taxonomy", "taxonomyTerm"]
