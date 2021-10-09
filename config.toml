@@ -1,4 +1,4 @@
-baseURL = "http://leslietang.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Leslie Tang"
 theme = "blackburn"
@@ -58,21 +58,20 @@ theme = "blackburn"
   # by entering your username or ID.
 
   # SNS microblogging
-  twitter = "*"
-
+  # twitter = "*"
 
   # SNS photo/video sharing
-  instagram = "*"
-  youtube = "*"
-  slideshare = "*"
+  # instagram = "*"
+  # youtube = "*"
+  # slideshare = "*"
 
   # SNS career oriented
-  linkedin = "*"
+  linkedin = "leslie-tang"
 
   # SNS news
-  reddit = "*"
-  hackernews = "*"
+  # reddit = "*"
+  # hackernews = "*"
 
   # Techie
-  github = "yoshiharuyamashita"
-  stackoverflow = "*"
+  github = "tangweejieleslie"
+  # stackoverflow = "*"
