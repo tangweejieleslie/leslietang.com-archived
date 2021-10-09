@@ -16,6 +16,10 @@ canonifyurls = true
   category = "categories"
   archive = "archives"
 
+[module]
+[[module.imports]]
+  path = 'github.com/kakawait/hugo-tranquilpeak-theme'
+
 # ------
 # Markup
 # ------
