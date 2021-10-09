@@ -26,7 +26,7 @@ jobs:
 
       - name: Build
         run: 
-          mkdir themes | cd themes | git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git | cd .. | hugo --minify
+          mkdir themes | cd themes | git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git | pwd | cd .. | pwd | hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
