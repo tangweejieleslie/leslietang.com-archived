@@ -1,11 +1,9 @@
-baseURL = "https://leslietang.com"
+baseURL = "http://leslietang.com"
 languageCode = "en-us"
 title = "Leslie Tang"
 theme = "blackburn"
 
-[module]
-[[module.imports]]
-  path = 'github.com/yoshiharuyamashita/blackburn'
+
 
 [indexes]
   tag = "tags"
@@ -13,10 +11,10 @@ theme = "blackburn"
 
 [params]
   # Shown in the home page
-  subtitle = "A Hugo Theme"
+  subtitle = "My website"
   brand = "Leslie TANG"
   googleAnalytics = "Your Google Analytics tracking ID"
-  disqus = "Your Disqus shortname"
+  # disqus = "Your Disqus shortname"
   
   # CSS name for highlight.js
   highlightjs = "androidstudio"
