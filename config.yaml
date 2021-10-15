@@ -1,0 +1,53 @@
+params:
+    # defaultTheme: light
+    # defaultTheme: dark
+    defaultTheme: auto # to switch between dark or light according to browser theme
+    profileMode:
+        enabled: true
+        title: "Leslie TANG" # optional default will be site title
+        subtitle: "my personal website"
+        # imageUrl: "<image link>" # optional
+        # imageTitle: "<title of image as alt>" # optional
+        # imageWidth: 120 # custom size
+        # imageHeight: 120 # custom size
+        buttons:
+            - name: Archive
+              url: "/archive"
+            - name: Github
+              url: "https://github.com/tangweejieleslie/"
+
+    socialIcons: # optional
+        - name: "LinkedIn"
+          url: "https://www.linkedin.com/in/leslie-tang/"
+
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+
+    editPost:
+        URL: "https://github.com/tangweejieleslie/leslietang.com/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+
+    outputs:
+        home:
+            - HTML
+            - RSS
+            - JSON # is necessary
+
+cover:
+    image: "<image path/url>"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "<alt text>"
+    caption: "<text>"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
