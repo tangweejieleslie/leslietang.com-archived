@@ -4,7 +4,7 @@ defaultContentLanguage = "en-us"
 title = "Leslie Tang"
 theme = "hugo-PaperMod"
 disqusShortname = "hugo-PaperMod"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-140833487-1"
 paginate = 7
 canonifyurls = true
 
