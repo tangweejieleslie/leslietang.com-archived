@@ -48,7 +48,7 @@ home = [ "HTML", "RSS", "JSON" ]
 
 [params]
 env = "production"
-description = "Leslie Tang"
+description = "Leslie TANG"
 author = "Leslie Tang"
 defaultTheme = "auto"
 ShowShareButtons = false
@@ -75,7 +75,7 @@ images = [ "papermod-cover.png" ]
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Leslie Tang"
+  Title = "Leslie TANG"
   Content = """
   Welcome to my website! This is still a work in progress.
   """
