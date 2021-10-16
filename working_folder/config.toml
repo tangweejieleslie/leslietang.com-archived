@@ -63,8 +63,8 @@ images = [ "papermod-cover.png" ]
   [params.profileMode]
   enabled = false
   title = "Leslie TANG"
-  imageUrl = "#"
-  imageTitle = "my image"
+  imageUrl = "https://polywork-production.imgix.net/nh2aa8rqf9ysg2vml43yk2bl565b?ixlib=rails-4.2.0&w=128&h=128&fit=crop&auto=format&dpr=1&q=75"
+  imageTitle = "Leslie Tang"
 
     [[params.profileMode.buttons]]
     name = "Archives"
@@ -83,6 +83,10 @@ images = [ "papermod-cover.png" ]
   [[params.socialIcons]]
   name = "github"
   url = "https://github.com/tangweejieleslie/leslietang.com"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/leslie-tang/"
 
   [[params.socialIcons]]
   name = "polywork"
