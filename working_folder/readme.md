@@ -1,4 +1,4 @@
-`hugo serve`
+`hugo serve --buildDrafts`
 
 `hugo build`
 

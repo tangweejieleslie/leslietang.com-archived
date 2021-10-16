@@ -13,30 +13,30 @@ googleAnalytics = "UA-140833487-1"
 [minify]
 disableXML = true
 
-[languages.en]
-languageName = "English"
-weight = 1
-
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Archives"
 url = "archives"
 weight = 5
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Search"
 url = "search/"
 weight = 10
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Tags"
 url = "tags/"
 weight = 10
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Categories"
 url = "categories/"
 weight = 10
 
+# [[languages.en.menu.main]]
+# name = "Timeline"
+# url = "https://timeline.leslietang.com/"
+# weight = 10
 # [[languages.en.menu.main]]
 # name = "Drafts"
 # url = "drafts/"
@@ -83,6 +83,12 @@ images = [ "papermod-cover.png" ]
   [[params.socialIcons]]
   name = "github"
   url = "https://github.com/tangweejieleslie/leslietang.com"
+
+  [[params.socialIcons]]
+  name = "polywork"
+  url = "https://timeline.leslietang.com/"
+
+  
 
   # [[params.socialIcons]]
   # name = "KoFi"
