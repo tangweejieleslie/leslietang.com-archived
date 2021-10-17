@@ -21,6 +21,17 @@ Minimum Viable Writing In the book, Roy cited an interesting example. About read
 In other words, from headings and subheadings, we can quickly determine if the idea presented would be valuable, or not.</description>
     </item>
     
+    <item>
+      <title>Premiere Pro Basic Workflow</title>
+      <link>https://leslietang.com/posts/notes-about-adobe-premiere-pro/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/notes-about-adobe-premiere-pro/</guid>
+      <description>I wrote down the steps from the class by Jordy Vandeput on Skillshare. For me, video edit is a pain, mainly because of the sheer number of actions in the UI.
+After going through the first video, I realized there is a logical design decision behind Adobe Premiere Pro. That logical flow becomes obvious, once you understand the general workflow.
+General Workflow All video edits start with the bin. The bin contains all the relevant resources.</description>
+    </item>
+    
     
     
   </channel>
