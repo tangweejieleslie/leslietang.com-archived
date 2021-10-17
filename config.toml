@@ -33,10 +33,10 @@ name = "Tags"
 url = "tags/"
 weight = 8
 
-[[menu.main]]
-name = "Notes"
-url = "notes/"
-weight = 9
+# [[menu.main]]
+# name = "Notes"
+# url = "notes/"
+# weight = 9
 
 # [[languages.en.menu.main]]
 # name = "Timeline"
