@@ -1,7 +1,7 @@
 ---
 title: "Notes about Atomic Habits"
 date: 2021-10-18
-time: 04:53
+# time: 04:53
 draft: true
 tags: ["systems", "habits", "identity", "Atomic Habits", "James Clear"]
 categories: ["Book Notes"]
