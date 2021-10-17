@@ -1,10 +1,9 @@
 ---
-title: "untitled"
+title: "Atomic Habits Book Notes 1"
 date: 2021-10-18
-# time: 07:51
 draft: true
-# tags: ["short tags", ""]
-# categories: ["Some Description or Theme"]
+tags: ["systems", "habits", "identity", "Atomic Habits", "James Clear"]
+categories: ["Book Notes"]
 ---
 
 The thing that I often hear about Atomic Habits, is the system that gives you 37x growth in a year. 
