@@ -39,7 +39,7 @@ First, identify all possible actions that could potentially be related to the de
 
 A mind map sounds like the most intuitive way to do this. 
 
-![[resources/Pasted image 20211018063629.png]]
+![[Pasted image 20211018063629.png]]
 
 We can start by thinking about the obvious things. To win a cycling race, what the the obvious components?
 The cyclist and the bicycle. And then we can think of the different components that makes up each of them, and the potential components that would affect the end result. 
