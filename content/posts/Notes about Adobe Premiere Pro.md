@@ -6,6 +6,7 @@ draft: true
 tags: ["video edit notes"]
 categories: ["Adobe Premiere Pro Notes"]
 ---
+
 I wrote down the steps from the class by Jordy Vandeput on Skillshare. 
 For me, video edit is a pain, mainly because of the sheer number of actions in the UI.
 
