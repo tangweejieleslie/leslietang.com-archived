@@ -2,7 +2,7 @@
 title: "Notes about Atomic Habits"
 date: 2021-10-18
 # time: 04:53
-draft: true
+draft: false
 tags: ["systems", "habits", "identity", "Atomic Habits", "James Clear"]
 categories: ["Book Notes"]
 ---
@@ -39,7 +39,7 @@ First, identify all possible actions that could potentially be related to the de
 
 A mind map sounds like the most intuitive way to do this. 
 
-![[Pasted image 20211018063629.png]]
+![[resources/Pasted image 20211018063629.png]]
 
 We can start by thinking about the obvious things. To win a cycling race, what the the obvious components?
 The cyclist and the bicycle. And then we can think of the different components that makes up each of them, and the potential components that would affect the end result. 

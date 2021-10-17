@@ -1,7 +1,7 @@
 ---
 title: "untitled"
 date: {{date}}
-time: {{time}}
+# time: {{time}}
 draft: true
 # tags: ["short tags", ""]
 # categories: ["Some Description or Theme"]

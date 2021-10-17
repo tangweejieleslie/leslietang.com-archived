@@ -16,23 +16,23 @@ That logical flow becomes obvious, once you understand the general workflow.
 # General Workflow
 All video edits start with the `bin`. The `bin` contains all the relevant resources. The video clips, the audio clips, the images, the different layers, etc. 
 
-![](../resources/bin.png)
+![](resources/bin.png)
 
 Double clicking on the video clips will bring it into the source panel for initial processing. 
 
-![](../resources/source.png)
+![](resources/source.png)
 
 One of the steps commonly taken here is choosing the in (`i`)  and out (`o`) points. And inserting (`,`) the selected portion to the sequence timeline. 
 
-![](../resources/sequence_timeline.png)
+![](resources/sequence_timeline.png)
 
 Sometimes, you might notice that only the audio is being imported, or maybe only the video. In those case, check that you have enabled the respective "source patching".
 
-![](../resources/troubleshoot_source_insertion.png)
+![](resources/troubleshoot_source_insertion.png)
 
 Lastly, you can preview the entire sequence through the Display Panel.
 
-![](../resources/sequence_display.png)
+![](resources/sequence_display.png)
 
 # Detailed Workflow
 1. Import clips
