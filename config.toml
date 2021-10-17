@@ -14,24 +14,29 @@ googleAnalytics = "UA-140833487-1"
 disableXML = true
 
 [[menu.main]]
-name = "Archives"
-url = "archives"
+name = "Search"
+url = "search/"
 weight = 5
 
 [[menu.main]]
-name = "Search"
-url = "search/"
-weight = 10
-
-[[menu.main]]
-name = "Tags"
-url = "tags/"
-weight = 10
+name = "Archives"
+url = "archives"
+weight = 6
 
 [[menu.main]]
 name = "Categories"
 url = "categories/"
-weight = 10
+weight = 7
+
+[[menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 8
+
+[[menu.main]]
+name = "Notes"
+url = "notes/"
+weight = 9
 
 # [[languages.en.menu.main]]
 # name = "Timeline"
@@ -73,6 +78,7 @@ images = [ "papermod-cover.png" ]
     [[params.profileMode.buttons]]
     name = "Tags"
     url = "tags"
+  
 
   [params.homeInfoParams]
   Title = "Leslie TANG"
@@ -103,7 +109,7 @@ images = [ "papermod-cover.png" ]
   # url = "index.xml"
 
   [params.editPost]
-  URL = "https://github.com/tangweejieleslie/leslietang.com/tree/experiment/working_folder/content"
+  URL = "https://github.com/tangweejieleslie/leslietang.com/tree/working-branch/content"
   Text = "Suggest Changes"
   appendFilePath = true
 
