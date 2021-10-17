@@ -26,7 +26,7 @@ jobs:
 
       - name: Build
         run: 
-          hugo --minify
+          hugo --buildDrafts --gc --verbose --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
@@ -35,5 +35,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: public
-          keep_files: false
+          # keep_files: false
           cname: leslietang.com
