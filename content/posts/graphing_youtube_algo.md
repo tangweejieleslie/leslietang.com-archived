@@ -1,7 +1,8 @@
 ---
 title: "untitled"
-date: 2021-10-17T:10:38
-draft: true
+date: 2021-10-17 T:10:38
+
+draft: false
 # tags: ["short tags", ""]
 # categories: ["Some Description or Theme"]
 ---

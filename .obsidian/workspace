@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 2.md",
+            "file": "content/posts/Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "content/posts/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,14 @@
   },
   "active": "a949452dcef1de00",
   "lastOpenFiles": [
+    "content/posts/Untitled.md",
+    "content/posts/Untitled 2.md",
+    "content/posts/untitled_wip.md",
+    "content/posts/Untitled 1.md",
+    "template/_frontmatter.md",
+    "content/posts/Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "template/_frontmatter.md"
+    "Untitled.md"
   ]
 }
