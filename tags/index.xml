@@ -8,6 +8,25 @@
       <url>https://leslietang.com/papermod-cover.png</url>
       <link>https://leslietang.com/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://leslietang.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about writing</title>
+      <link>https://leslietang.com/tags/about-writing/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/tags/about-writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing plans</title>
+      <link>https://leslietang.com/tags/writing-plans/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/tags/writing-plans/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

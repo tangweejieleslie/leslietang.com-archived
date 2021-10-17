@@ -3,7 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://leslietang.com/tags/about-writing/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/categories/book-notes/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/categories/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://leslietang.com/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/posts/minimum-viable-writing/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -13,7 +33,12 @@
   </url>
   
   <url>
-    <loc>https://leslietang.com/posts/untitled/</loc>
+    <loc>https://leslietang.com/tags/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/tags/writing-plans/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -22,19 +47,11 @@
   </url>
   
   <url>
-    <loc>https://leslietang.com/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://leslietang.com/search/</loc>
   </url>
   
   <url>
     <loc>https://leslietang.com/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://leslietang.com/tags/</loc>
   </url>
   
 </urlset>
