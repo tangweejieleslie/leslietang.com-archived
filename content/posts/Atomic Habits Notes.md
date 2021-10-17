@@ -6,7 +6,7 @@ draft: true
 tags: ["systems", "habits", "identity", "Atomic Habits", "James Clear"]
 categories: ["Book Notes"]
 ---
-
+ 
 The thing that I often hear about Atomic Habits, is the system that gives you 37x growth in a year. 
 
 When I hear about 1% improvements, compounded across the year, I thought it sounded difficult to improve in the samething 1% daily. And I thought 37x growth in one year sounds even more daunting. 
