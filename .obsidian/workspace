@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/posts/Minimum Viable Writing.md",
+            "file": "content/posts/Notes about Adobe Premiere Pro.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Minimum Viable Writing.md",
+                "file": "content/posts/Notes about Adobe Premiere Pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a949452dcef1de00",
   "lastOpenFiles": [
+    "content/posts/Notes about Adobe Premiere Pro.md",
+    "content/posts/minimum-viable-writing.md",
+    "content/posts/Atomic Habits Notes.md",
+    "content/posts/Testing Bidirectional Links.md",
     "content/posts/Untitled.md",
+    "content/resources/Basic Editing Workflow - Step 23.jpeg",
+    "content/posts/Minimum Viable Writing.md",
     "content/archives.md",
     "content/posts/Untitled 1.md",
-    "content/posts/Pasted image 20211017104035.png",
-    "content/posts/it-is-easy.md",
-    "content/posts/graphing_youtube_algo.md",
-    "content/posts/readme.md",
-    "content/posts/an_idea.md",
-    "content/posts/Untitled 2.md",
-    "content/posts/untitled_wip.md"
+    "content/posts/Pasted image 20211017104035.png"
   ]
 }
