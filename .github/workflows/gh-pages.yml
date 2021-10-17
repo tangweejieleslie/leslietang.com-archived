@@ -26,7 +26,7 @@ jobs:
 
       - name: Build
         run: 
-          hugo --buildDrafts --gc --verbose --minify
+          hugo --buildDrafts --buildFuture --buildExpired --gc --verbose --minify 
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

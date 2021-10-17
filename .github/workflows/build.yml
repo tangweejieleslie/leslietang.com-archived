@@ -30,4 +30,4 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build
-        run: hugo --buildDrafts --gc --verbose --minify
+        run: hugo --buildDrafts --buildFuture --buildExpired --gc --verbose --minify 
