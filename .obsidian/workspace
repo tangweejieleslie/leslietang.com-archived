@@ -7,11 +7,16 @@
         "id": "a949452dcef1de00",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content/posts/Notes about Adobe Premiere Pro.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "c28711a74f6ac780",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Notes about Adobe Premiere Pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +92,15 @@
   },
   "active": "a949452dcef1de00",
   "lastOpenFiles": [
+    "content/posts/adobe premiere notes/bin.png",
+    "content/resources/bin.png",
+    "content/posts/minimum-viable-writing.md",
+    "content/posts/Atomic Habits Notes.md",
+    "content/posts/mindmap_example.png",
+    "content/posts/bin.png",
+    "content/posts/Pasted image 20211018063629.png",
     "content/posts/Notes about Adobe Premiere Pro.md",
     "content/posts/resources/bin.png",
-    "content/posts/Atomic Habits Notes.md",
-    "content/posts/minimum-viable-writing.md",
-    "content/posts/Atomic Habits Notes 2.md",
-    "content/posts/Untitled.md",
-    "content/resources/sequence_display.png",
-    "content/posts/sequence_display 1.png.md",
-    "content/resources/sequence_display 1.png",
-    "content/posts/Testing Bidirectional Links.md"
+    "content/posts/Atomic Habits Notes 2.md"
   ]
 }
