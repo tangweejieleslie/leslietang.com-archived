@@ -2,7 +2,7 @@
 title: "Attempt at Video Edit"
 date: 2021-10-18
 # time: 21:04
-draft: true
+draft: false
 tags: ["video edit"]
 # categories: ["Adobe Premiere Pro", "Video Edit Logs"]
 ---
