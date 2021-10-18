@@ -11,6 +11,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Attempt at Video Edit</title>
+      <link>https://leslietang.com/posts/first-video-sequence-attempt/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/first-video-sequence-attempt/</guid>
+      <description>My first video sequence attempt, using Adobe Premiere Pro. https://www.youtube.com/watch?v=TLrUc7GaoAA
+Some of the challenges encountered.
+1. Finding the appropriate clips The difficulty is finding the right clips that will express the ideas I have in mind.
+I&amp;rsquo;ve also made a mistake on the sequence settings. Somewhere along the process, I&amp;rsquo;ve set the sequence to be 1280x720 instead of 1920x1080. It&amp;rsquo;s too much of a hassle to redo everyone on 1080p so I ended up uploading a 720p video.</description>
+    </item>
+    
+    <item>
       <title>Emotions</title>
       <link>https://leslietang.com/posts/emotions-in-games-development/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
