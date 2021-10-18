@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/posts/Emotions in Games Development.md",
+            "file": "content/posts/First Video Sequence Attempt.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Emotions in Games Development.md",
+                "file": "content/posts/First Video Sequence Attempt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   "active": "a949452dcef1de00",
   "lastOpenFiles": [
     "content/posts/Untitled.md",
+    "content/posts/Emotions in Games Development.md",
     "content/posts/Untitled 1.md",
     "content/posts/adobe premiere notes/bin.png",
     "content/resources/bin.png",
@@ -96,7 +97,6 @@
     "content/posts/Atomic Habits Notes.md",
     "content/posts/mindmap_example.png",
     "content/posts/bin.png",
-    "content/posts/Pasted image 20211018063629.png",
-    "content/posts/Notes about Adobe Premiere Pro.md"
+    "content/posts/Pasted image 20211018063629.png"
   ]
 }
