@@ -11,6 +11,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Emotions</title>
+      <link>https://leslietang.com/posts/emotions-in-games-development/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/emotions-in-games-development/</guid>
+      <description>Joy of discovery.
+I want to incorporate that element into my game. Something like Kaizoku Oujo, episode 5.
+I want to somehow incorporate emotions, or triggers of emotions, within my game.</description>
+    </item>
+    
+    <item>
+      <title>Non-linear Progression</title>
+      <link>https://leslietang.com/posts/non-linear-progression/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/non-linear-progression/</guid>
+      <description>Progression on Web Landscapes should not be seen as Linear.
+While new advancements are built on old advancements, the potential for progression is never linear.
+It only seems linear after abstraction. After drastic simplification.
+In fact, many things are often not linear. But are presented linearly.
+Let me define linear in a diagram A -&amp;gt; B -&amp;gt; C
+In reality, things would probably look more like A -&amp;gt; B A -&amp;gt; B1 B1 -&amp;gt; C B1 -&amp;gt; C2</description>
+    </item>
+    
+    <item>
       <title>Notes about Atomic Habits</title>
       <link>https://leslietang.com/posts/atomic-habits-notes/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
@@ -19,6 +44,23 @@
       <description>The thing that I often hear about Atomic Habits, is the system that gives you 37x growth in a year.
 When I hear about 1% improvements, compounded across the year, I thought it sounded difficult to improve in the samething 1% daily. And I thought 37x growth in one year sounds even more daunting.
 The first thing that comes into mind is that this claim is as absurd as those that claim to make X% returns on Y amount, through Forex daily.</description>
+    </item>
+    
+    <item>
+      <title>Web 3.0 Braindump</title>
+      <link>https://leslietang.com/posts/web-3.0-braindump/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/web-3.0-braindump/</guid>
+      <description>Recently I keep seeing about Web 3.0.
+I don&amp;rsquo;t know what it is, that&amp;rsquo;s why I&amp;rsquo;m researching it.
+https://internationalbanker.com/technology/what-is-web-3-0-and-why-does-it-matter/
+https://www.finextra.com/blogposting/3003/web-30-and-40
+https://techcrunch.com/2021/09/16/cryptos-networked-collaboration-will-drive-web-3-0/
+Ok, the more I read, the more confusing it gets.
+The definition of Web 3.0 changes depending on when the article is written.
+The recent trends that I heard about Web 3.0 are mainly due to blockchain technologies.
+Things get confusing when concepts from humanities and social sciences gets in.</description>
     </item>
     
     <item>
