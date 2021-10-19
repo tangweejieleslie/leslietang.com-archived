@@ -3,7 +3,7 @@ title: "Premiere Pro Basic Workflow"
 date: 2021-10-17
 time: 17:39
 draft: true
-tags: ["video edit notes"]
+tags: ["video edit notes", "Jordy Vandeput"]
 categories: ["Adobe Premiere Pro Notes"]
 series: ["Adobe Premiere Pro Notes"]
 ---

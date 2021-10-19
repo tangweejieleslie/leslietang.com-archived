@@ -3,7 +3,7 @@ title: "About Sequence and Shortcut Keys"
 date: 2021-10-18
 time: 19:30
 draft: true
-tags: ["video edit notes"]
+tags: ["video edit notes", "Jordy Vandeput"]
 categories: ["Adobe Premiere Pro Notes"]
 series: ["Adobe Premiere Pro Notes"]
 ---
