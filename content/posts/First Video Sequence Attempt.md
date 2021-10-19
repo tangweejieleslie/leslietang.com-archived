@@ -4,7 +4,7 @@ date: 2021-10-18
 # time: 21:04
 draft: false
 tags: ["video edit"]
-# categories: ["Adobe Premiere Pro", "Video Edit Logs"]
+categories: ["Adobe Premiere Pro", "Video Edit Logs"]
 ---
 
 My first video sequence attempt, using Adobe Premiere Pro.
