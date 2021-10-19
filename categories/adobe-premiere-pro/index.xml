@@ -11,6 +11,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/categories/adobe-premiere-pro/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Pan Cake Edit</title>
+      <link>https://leslietang.com/posts/adobe-premiere-pro-pancake-edit/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/adobe-premiere-pro-pancake-edit/</guid>
+      <description>Pancake Technique. It is a workflow that&amp;rsquo;s useful for large projects with multiple versions and edits.
+ Create a &amp;ldquo;Selection Sequence&amp;rdquo;. Basically this sequence contains all the clips, with the respective in and out points set and ready for usage Create a &amp;ldquo;Final Edit Sequence&amp;rdquo;. Show both sequences, one over another, in the timeline panel Drag clips from Selection Sequence down to the Final Edit Sequence  Label used clips with a different color to prevent confusion   If there&amp;rsquo;s revision needed, CREATE A NEW SEQUENCE!</description>
+    </item>
+    
+    <item>
       <title>Second Attempt at Video Edit</title>
       <link>https://leslietang.com/posts/second-video/</link>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
@@ -23,6 +33,20 @@ Remember to Set Sequence Rendering Codec Experimented with Transitions. Movement
     </item>
     
     <item>
+      <title>About Sequence and Shortcut Keys</title>
+      <link>https://leslietang.com/posts/adobe-premiere-pro-notes/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/adobe-premiere-pro-notes/</guid>
+      <description>Shortcut Keys You can view the available short keys from Settings &amp;gt; Keyboard Shortcuts
+Ripple Trim w, q They basically cut, delete, and close the gap between the cut
+Add Cuts ctrl + k
+Increase Height of Audio and Video Track alt +/- : increase/decrease audio track height ctrl +/-: increase/decrease video track height
+Audio Gain Select the clip and use g
+Control Speed ctrl + r: to bring up the clip speed and duration panel</description>
+    </item>
+    
+    <item>
       <title>Attempt at Video Edit</title>
       <link>https://leslietang.com/posts/first-video-sequence-attempt/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
@@ -32,6 +56,17 @@ Remember to Set Sequence Rendering Codec Experimented with Transitions. Movement
 Some of the challenges encountered.
 1. Finding the appropriate clips The difficulty is finding the right clips that will express the ideas I have in mind.
 I&amp;rsquo;ve also made a mistake on the sequence settings. Somewhere along the process, I&amp;rsquo;ve set the sequence to be 1280x720 instead of 1920x1080. It&amp;rsquo;s too much of a hassle to redo everyone on 1080p so I ended up uploading a 720p video.</description>
+    </item>
+    
+    <item>
+      <title>Premiere Pro Basic Workflow</title>
+      <link>https://leslietang.com/posts/notes-about-adobe-premiere-pro/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/notes-about-adobe-premiere-pro/</guid>
+      <description>I wrote down the steps from the class by Jordy Vandeput on Skillshare. For me, video edit is a pain, mainly because of the sheer number of actions in the UI.
+After going through the first video, I realized there is a logical design decision behind Adobe Premiere Pro. That logical flow becomes obvious, once you understand the general workflow.
+General Workflow All video edits start with the bin. The bin contains all the relevant resources.</description>
     </item>
     
   </channel>
