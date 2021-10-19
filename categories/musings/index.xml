@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>thoughts on Leslie TANG</title>
-    <link>https://leslietang.com/tags/thoughts/</link>
-    <description>Recent content in thoughts on Leslie TANG</description>
+    <title>Musings on Leslie TANG</title>
+    <link>https://leslietang.com/categories/musings/</link>
+    <description>Recent content in Musings on Leslie TANG</description>
     <image>
       <url>https://leslietang.com/papermod-cover.png</url>
       <link>https://leslietang.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/categories/musings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No one cares more about your money than yourself</title>
       <link>https://leslietang.com/posts/no-one-cares/</link>
