@@ -5,6 +5,7 @@ time: 17:39
 draft: true
 tags: ["video edit notes"]
 categories: ["Adobe Premiere Pro Notes"]
+series: ["Adobe Premiere Pro Notes"]
 ---
 
 I wrote down the steps from the class by Jordy Vandeput on Skillshare. 

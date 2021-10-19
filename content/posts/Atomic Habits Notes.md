@@ -5,6 +5,7 @@ date: 2021-10-18
 draft: false
 tags: ["systems", "habits", "identity", "Atomic Habits", "James Clear"]
 categories: ["Book Notes"]
+series: ["Atomic Habit Notes"]
 ---
  
 The thing that I often hear about Atomic Habits, is the system that gives you 37x growth in a year. 
