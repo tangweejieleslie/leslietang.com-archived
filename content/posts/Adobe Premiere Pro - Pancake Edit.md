@@ -4,7 +4,7 @@ date: 2021-10-19
 # time: 09:11
 draft: false
 tags: ["video edit notes", "Jordy Vandeput", "Pancake Edit", "Video Edit Workflow"]
-categories: ["Adobe Premiere Pro Notes"]
+categories: ["Adobe Premiere Pro"]
 series: ["Adobe Premiere Pro Notes"]
 ---
 

@@ -4,7 +4,7 @@ date: 2021-10-18
 time: 19:30
 draft: true
 tags: ["video edit notes", "Jordy Vandeput"]
-categories: ["Adobe Premiere Pro Notes"]
+categories: ["Adobe Premiere Pro"]
 series: ["Adobe Premiere Pro Notes"]
 ---
 
