@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>video edit on Leslie TANG</title>
-    <link>https://leslietang.com/tags/video-edit/</link>
-    <description>Recent content in video edit on Leslie TANG</description>
+    <title>Video Edit Logs on Leslie TANG</title>
+    <link>https://leslietang.com/categories/video-edit-logs/</link>
+    <description>Recent content in Video Edit Logs on Leslie TANG</description>
     <image>
       <url>https://leslietang.com/papermod-cover.png</url>
       <link>https://leslietang.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/tags/video-edit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/categories/video-edit-logs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Attempt at Video Edit</title>
       <link>https://leslietang.com/posts/second-video/</link>
