@@ -9,7 +9,21 @@
       <link>https://leslietang.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/categories/adobe-premiere-pro-notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/categories/adobe-premiere-pro-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Sequence and Shortcut Keys</title>
+      <link>https://leslietang.com/posts/adobe-premiere-pro-notes/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/adobe-premiere-pro-notes/</guid>
+      <description>Shortcut Keys You can view the available short keys from Settings &amp;gt; Keyboard Shortcuts
+Ripple Trim w, q They basically cut, delete, and close the gap between the cut
+Add Cuts ctrl + k
+Increase Height of Audio and Video Track alt +/- : increase/decrease audio track height ctrl +/-: increase/decrease video track height
+Audio Gain Select the clip and use g
+Control Speed ctrl + r: to bring up the clip speed and duration panel</description>
+    </item>
+    
     <item>
       <title>Premiere Pro Basic Workflow</title>
       <link>https://leslietang.com/posts/notes-about-adobe-premiere-pro/</link>

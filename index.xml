@@ -9,7 +9,32 @@
       <link>https://leslietang.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atomic Habit Notes v2</title>
+      <link>https://leslietang.com/posts/atomic-habits-notes-v2/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/atomic-habits-notes-v2/</guid>
+      <description>Level 1 Reading, to me is the extraction of information. I will not process them yet. Basically this is the ground work to help me absorb the information.
+Chapter 1 Key Concepts
+What if you grow 1% compounded daily?    Days Years Factor     365 1 37   730 2 1427   1095 3 53,939   1460 4 2,038,007    Quoting James Clear</description>
+    </item>
+    
+    <item>
+      <title>About Sequence and Shortcut Keys</title>
+      <link>https://leslietang.com/posts/adobe-premiere-pro-notes/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/adobe-premiere-pro-notes/</guid>
+      <description>Shortcut Keys You can view the available short keys from Settings &amp;gt; Keyboard Shortcuts
+Ripple Trim w, q They basically cut, delete, and close the gap between the cut
+Add Cuts ctrl + k
+Increase Height of Audio and Video Track alt +/- : increase/decrease audio track height ctrl +/-: increase/decrease video track height
+Audio Gain Select the clip and use g
+Control Speed ctrl + r: to bring up the clip speed and duration panel</description>
+    </item>
+    
     <item>
       <title>Attempt at Video Edit</title>
       <link>https://leslietang.com/posts/first-video-sequence-attempt/</link>
