@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://leslietang.com/categories/about-godot/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://leslietang.com/categories/about-logical-fallacies/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url>
@@ -23,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://leslietang.com/tags/cheat-sheet/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://leslietang.com/categories/critical-thinking/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url>
@@ -34,6 +44,16 @@
   
   <url>
     <loc>https://leslietang.com/tags/debate/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/tags/godot/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/posts/godot-cheat-sheet/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url>
   

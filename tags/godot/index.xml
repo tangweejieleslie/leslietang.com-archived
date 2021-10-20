@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>godot on Leslie TANG</title>
+    <link>https://leslietang.com/tags/godot/</link>
+    <description>Recent content in godot on Leslie TANG</description>
+    <image>
+      <url>https://leslietang.com/papermod-cover.png</url>
+      <link>https://leslietang.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/tags/godot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Godot Cheat Sheet</title>
+      <link>https://leslietang.com/posts/godot-cheat-sheet/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/godot-cheat-sheet/</guid>
+      <description>About Signals Reference: https://docs.godotengine.org/en/stable/getting_started/step_by_step/signals.html Godot&amp;rsquo;s native implementation of observer pattern.
+# You&#39;ll need to set up a signal first signal SignalName(signal_variables, v1, v2) # And emit the signal, alongside the required variables emit_signal(&amp;quot;SignalName&amp;quot;, signal_variables, v1, v2) # In the node that will be receiving the signal, you&#39;ll need to set up a connection # Syntax: &amp;lt;source_node&amp;gt;.connect(&amp;lt;signal_name&amp;gt;, &amp;lt;target_node&amp;gt;, &amp;lt;target_function_name&amp;gt;) # Example $Timer.connect(&amp;quot;timeout&amp;quot;, self, &amp;quot;_on_Timer_timeout&amp;quot;) About Instance This is just the syntax.</description>
+    </item>
+    
+  </channel>
+</rss>
