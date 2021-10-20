@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://leslietang.com/posts/video_edit_3/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://leslietang.com/categories/about-godot/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://leslietang.com/categories/about-logical-fallacies/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/categories/adobe-premiere-pro/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,17 +143,22 @@
   </url>
   
   <url>
+    <loc>https://leslietang.com/tags/video-edit/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/categories/video-edit-logs/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://leslietang.com/posts/a-loose-strategy/</loc>
     <lastmod>2021-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://leslietang.com/tags/addiction/</loc>
-    <lastmod>2021-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leslietang.com/categories/adobe-premiere-pro/</loc>
     <lastmod>2021-10-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,7 +248,7 @@
   </url>
   
   <url>
-    <loc>https://leslietang.com/posts/second-video/</loc>
+    <loc>https://leslietang.com/posts/video_edit_2/</loc>
     <lastmod>2021-10-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,16 +273,6 @@
   </url>
   
   <url>
-    <loc>https://leslietang.com/tags/video-edit/</loc>
-    <lastmod>2021-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leslietang.com/categories/video-edit-logs/</loc>
-    <lastmod>2021-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://leslietang.com/tags/video-edit-notes/</loc>
     <lastmod>2021-10-19T00:00:00+00:00</lastmod>
   </url>
@@ -283,7 +288,7 @@
   </url>
   
   <url>
-    <loc>https://leslietang.com/posts/first-video-sequence-attempt/</loc>
+    <loc>https://leslietang.com/posts/video_edit_1/</loc>
     <lastmod>2021-10-18T00:00:00+00:00</lastmod>
   </url>
   

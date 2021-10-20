@@ -9,13 +9,26 @@
       <link>https://leslietang.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/categories/video-edit-logs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/categories/video-edit-logs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3rd Coffee Video Sequence</title>
+      <link>https://leslietang.com/posts/video_edit_3/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/video_edit_3/</guid>
+      <description>3rd Video Sequence Spent about 1 hour on this.
+Total Time spent playing with Adobe Premiere Pro: about 4 hours.
+This time round, I&amp;rsquo;ve experimented with the following
+ LUTs  Color look up table. This seems very useful to apply a consistent color and feel across the entire video. Using adjustment layers also make it easy to experiment with different LUTs.
+Sound Effects  Experimented with Sound Effects too. Was looking around for free sound effects and stumbled upon https://freesound.</description>
+    </item>
+    
     <item>
       <title>Second Attempt at Video Edit</title>
-      <link>https://leslietang.com/posts/second-video/</link>
+      <link>https://leslietang.com/posts/video_edit_2/</link>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://leslietang.com/posts/second-video/</guid>
+      <guid>https://leslietang.com/posts/video_edit_2/</guid>
       <description>Second video sequence attempt: https://youtu.be/fcXv1gw3SHU
 This time round it took about an hour.
 Had remembered the mistake about sequence settings. This time round it&amp;rsquo;s a HD version. But had forgotten to set Codec, which slows down the rendering during edit.
@@ -24,10 +37,10 @@ Remember to Set Sequence Rendering Codec Experimented with Transitions. Movement
     
     <item>
       <title>Attempt at Video Edit</title>
-      <link>https://leslietang.com/posts/first-video-sequence-attempt/</link>
+      <link>https://leslietang.com/posts/video_edit_1/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://leslietang.com/posts/first-video-sequence-attempt/</guid>
+      <guid>https://leslietang.com/posts/video_edit_1/</guid>
       <description>My first video sequence attempt, using Adobe Premiere Pro. https://www.youtube.com/watch?v=TLrUc7GaoAA
 Some of the challenges encountered.
 1. Finding the appropriate clips The difficulty is finding the right clips that will express the ideas I have in mind.
