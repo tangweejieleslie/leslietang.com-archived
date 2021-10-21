@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Musings on Leslie TANG</title>
-    <link>https://leslietang.com/categories/musings/</link>
-    <description>Recent content in Musings on Leslie TANG</description>
+    <title>reflections from video edit on Leslie TANG</title>
+    <link>https://leslietang.com/tags/reflections-from-video-edit/</link>
+    <description>Recent content in reflections from video edit on Leslie TANG</description>
     <image>
       <url>https://leslietang.com/papermod-cover.png</url>
       <link>https://leslietang.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/categories/musings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/tags/reflections-from-video-edit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Planned vs Unplanned</title>
       <link>https://leslietang.com/posts/process/</link>
@@ -19,15 +19,6 @@
       <description>2 broad approaches to doing things
  plan first do and make spontaneous changes according to new information  Planning for Costly Work I used to think planning first would be better, cause you would make less mistakes. I now think that depends on your proficiency with the subject matter.
 It also depends on the stakes. If the plan would affect lives of others, then it make sense to have a plan, and have others verify the soundness of the plan.</description>
-    </item>
-    
-    <item>
-      <title>No one cares more about your money than yourself</title>
-      <link>https://leslietang.com/posts/no-one-cares/</link>
-      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://leslietang.com/posts/no-one-cares/</guid>
-      <description>And maybe, the scammer who is out to get your money. Then they will pretend to care about you.</description>
     </item>
     
   </channel>

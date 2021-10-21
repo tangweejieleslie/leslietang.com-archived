@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://leslietang.com/categories/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/categories/musings/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/posts/process/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/posts/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/tags/processes/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/tags/reflections-from-video-edit/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leslietang.com/tags/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://leslietang.com/tags/3-act-structure/</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url>
@@ -18,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://leslietang.com/categories/</loc>
+    <loc>https://leslietang.com/tags/draft-script/</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,7 +73,7 @@
   </url>
   
   <url>
-    <loc>https://leslietang.com/</loc>
+    <loc>https://leslietang.com/posts/video-about-learning-video-editting/</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,16 +89,6 @@
   
   <url>
     <loc>https://leslietang.com/tags/notes/</loc>
-    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leslietang.com/posts/</loc>
-    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leslietang.com/tags/</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -159,11 +189,6 @@
   
   <url>
     <loc>https://leslietang.com/tags/musing/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leslietang.com/categories/musings/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url>
   
