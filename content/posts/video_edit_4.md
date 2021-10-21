@@ -11,6 +11,9 @@ categories: ["Adobe Premiere Pro", "Video Edit Logs"]
 
 This time round, I've started with the music. And indeed, the process flows much better. And it's more interesting to find clips that mesh an overarching narrative, that also fits the mood. 
 
+Took 2 hours for this.
+Total Experience: 6 hours. 
+
 # Let the music guide the visuals 
 
 I think this is the main takeaway from the past 4 days.
