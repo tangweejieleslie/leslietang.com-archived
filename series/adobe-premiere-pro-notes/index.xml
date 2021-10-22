@@ -9,7 +9,21 @@
       <link>https://leslietang.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/series/adobe-premiere-pro-notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/series/adobe-premiere-pro-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adobe Premiere Pro</title>
+      <link>https://leslietang.com/posts/zoom-in-and-out/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/zoom-in-and-out/</guid>
+      <description>Reference: https://youtu.be/8gxRCn0lKWE?t=31
+Today, I learned about Adobe Premiere Pro Plugins.
+This here, is a plugin that helps you zoom in and out for clips. Without using key frames.
+But what&amp;rsquo;s more interesting to me, is that there&amp;rsquo;s plugins in Adobe.
+I think I found an opportunity. Building Adobe Premiere Pro Plugin.
+Action Plan  Learn tutorials Find repetitive work Create Plugins that&amp;rsquo;s easy to use  Quick Research Adobe Premiere Pro Plugin uses C/C++ and HTML/JS for the User Panel</description>
+    </item>
+    
     <item>
       <title>Pan Cake Edit</title>
       <link>https://leslietang.com/posts/adobe-premiere-pro-pancake-edit/</link>
