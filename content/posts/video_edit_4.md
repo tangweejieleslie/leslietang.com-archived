@@ -2,8 +2,7 @@
 title: "4th Coffee Sequence"
 date: 2021-10-21
 # time: 21:54
-draft: true
-draft: true
+draft: false
 tags: ["video edit"]
 categories: ["Adobe Premiere Pro", "Video Edit Logs"]
 # series: []

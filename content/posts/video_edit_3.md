@@ -2,7 +2,7 @@
 title: "3rd Coffee Video Sequence"
 date: 2021-10-20
 # time: 13:28
-draft: true
+draft: false
 tags: ["video edit"]
 categories: ["Adobe Premiere Pro", "Video Edit Logs"]
 # series: []
