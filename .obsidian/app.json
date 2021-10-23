@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "content/resources",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/posts",
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
+}
