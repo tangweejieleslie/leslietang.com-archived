@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>4 Hour Chef on Leslie TANG</title>
+    <link>https://leslietang.com/tags/4-hour-chef/</link>
+    <description>Recent content in 4 Hour Chef on Leslie TANG</description>
+    <image>
+      <url>https://leslietang.com/papermod-cover.png</url>
+      <link>https://leslietang.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leslietang.com/tags/4-hour-chef/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4 Hour Chef Key Lessons</title>
+      <link>https://leslietang.com/posts/lessons-from-4-hour-chef/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leslietang.com/posts/lessons-from-4-hour-chef/</guid>
+      <description>Reference: 4 hour chef
+There are skills that we want to become better at.
+Be it coding, content creation or tennis.
+In 4 Hour Chef, Tim Ferriss offers a simple framework to help us approach mastery of skills.
+Deconstruction Breaking the skills into smaller components, and keep breaking them down until you are unable to go further. There, you will find the atomic skills.
+I call this the skill graph.</description>
+    </item>
+    
+  </channel>
+</rss>
