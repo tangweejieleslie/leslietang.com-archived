@@ -1,10 +1,10 @@
 ---
-title: "untitled"
+title: "Some Research about Growth PM"
 date: 2021-10-27
 # time: 06:53
 draft: true
-# tags: ["short tags"]
-# categories: ["Some Description or Theme"]
+tags: ["growth pm"]
+categories: ["Research on Growth Product Manager"]
 # series: []
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "untitled"
+title: "Notes on Story Telling"
 date: 2021-10-25
 # time: 19:30
 draft: true
-# tags: ["short tags"]
-# categories: ["Some Description or Theme"]
+tags: ["storytelling"]
+categories: ["Notes on Story Telling"]
 # series: []
 ---
 
