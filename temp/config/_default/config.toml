@@ -1,5 +1,5 @@
 baseURL = "https://leslietang.com"
-title = "Hugo Bootstrap"
+title = "Leslie TANG"
 theme = "hugo-theme-bootstrap"
 copyright = "Copyright © 2020-{year} Leslie Tang. All Rights Reserved."
 
@@ -16,7 +16,7 @@ paginate = 5
 # disqusShortname = "yourdiscussshortname"
 
 # Google analytics
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-140833487-1"
 
 enableRobotsTXT = true
 
