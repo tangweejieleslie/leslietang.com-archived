@@ -1,4 +1,4 @@
-baseURL = "https://leslietang.com"
+baseURL = "/"
 title = "Leslie TANG"
 paginate = 5
 theme = "hugo-PaperMod"
