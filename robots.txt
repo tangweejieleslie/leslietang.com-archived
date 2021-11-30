@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
 Sitemap: https://leslietang.com/sitemap.xml
