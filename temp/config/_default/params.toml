@@ -2,22 +2,24 @@
 
 # titleSeparator = "|" # Title separator. Default to "-".
 
-description = "An extreme fast, responsive and feature-rich blog theme for Hugo"
-keywords = "Hugo, Bootstrap, Blog Theme"
+description = "Leslie Tang's personal website. Contains my thoughts, works, projects, and other things."
+keywords = "Leslie Tang, Software Engineer, Software Quality Assurance, Game Developer, Indie, Freelancer"
 # images = ["site-feature-image.jpg"]
 
 metaRobots = "noindex, nofollow" # Default value for Meta Tag "robots"
 # metaRobots = "" # disable Meta Tag "robots"
 
 # logo = "images/logo.png" # Logo image. Default to "images/logo.webp".
-# logo = false # Disable Logo
+logo = false # Disable Logo
 brand = "Leslie TANG"
 
-palette = "blue" # Default palette. Optional.
+palette = "bluegray" # Default palette. Optional.
 # palettes = ["blue", "blue gray", "brown"] # Available palettes. Default to ALL.
-# palettes = [] # Disable palette switcher.
+# palettes = ["bluegray"] # Disable palette switcher.
+# palettes = []
 
 # color = "dark" # light, dark or dynamic. Default to dynamic.
+# color = "#132235"
 
 # fullWidth = true # Full width.
 # fixedHeader = false # Turn on/off fixed header.
@@ -37,6 +39,7 @@ googleAdsense = ""
 # poweredBy = false # Whether to show powered by.
 
 # readingTime = false # Whether to display the reading time.
+# readingTime = false
 # postDate = false # Whether to display the post date in the post meta section.
 
 # featuredPostCount = 10 # The number of featured posts shown in sidebar. Turn off by setting it to false.
@@ -72,18 +75,18 @@ viewer = true # Image Viewer
   paginate = 8 # Archive pagination. Default to 100.
   # dateFormat = "01-02" # Archive date format. Default to "Jan 2".
 
-[analytics]
+# [analytics]
   # baidu = "" # Baidu Analytics
 
 # Site verification
-[siteVerification]
-  google = ""
-  bing = ""
-  baidu = ""
-  baiduUnion = "" # Baidu Union
-  so = ""
-  sogou = ""
-  shenma = ""
+# [siteVerification]
+#   google = ""
+#   bing = ""
+#   baidu = ""
+#   baiduUnion = "" # Baidu Union
+#   so = ""
+#   sogou = ""
+#   shenma = ""
 
 # [creativeCommons]
   # by = true # Credit must be given to you, the creator.
@@ -92,7 +95,7 @@ viewer = true # Image Viewer
   # sa = true # Adaptations must be shared under the same terms.
 
 [utterances]
-  repo = "razonyang/hugo-theme-bootstrap-comments" # Replace with your repository.
+  repo = "tangweejieleslie/leslietang.com" # Replace with your repository.
   #issueTerm = "pathname" # pathname, url, title, og:title
   #label = "comment"
   # By default, light and dark mode correspond to github-light and github-dark, respectively.
@@ -112,7 +115,7 @@ viewer = true # Image Viewer
     # distance = 100
     # useExtendedSearch = true
 
-[reward]
+# [reward]
   # alipay = "images/reward/alipay.png"
   # wechat = "images/reward/wechat.png"
   #paypal = "images/reward/paypal.png"

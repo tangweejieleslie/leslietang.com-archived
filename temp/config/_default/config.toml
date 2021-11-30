@@ -1,7 +1,7 @@
 baseURL = "https://leslietang.com"
 title = "Leslie TANG"
 theme = "hugo-theme-bootstrap"
-copyright = "Copyright © 2020-{year} Leslie Tang. All Rights Reserved."
+copyright = "Copyright © 2018-{year} Leslie Tang. All Rights Reserved."
 
 # Multilingual mode
 defaultContentLanguage = "en"
