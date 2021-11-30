@@ -5,7 +5,7 @@ on:
     branches:
       - master
       - working-branch
-      - publish
+      - public
   workflow_dispatch:
     # manual run
 
