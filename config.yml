@@ -4,7 +4,7 @@ title: 'Leslie Tang'
 theme: 'hugo-PaperMod'
 
 params:
-    googleAnalyticsID: 'G-3KGERJCSCY'
+    googleAnalyticsID: G-3KGERJCSCY
     # for search
     # https://fusejs.io/api/options.html
     fuseOpts:
