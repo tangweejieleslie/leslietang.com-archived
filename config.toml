@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://leslietang.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Leslie Tang'
 theme = 'hugo-PaperMod'
