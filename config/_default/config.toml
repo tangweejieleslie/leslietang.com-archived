@@ -1,6 +1,6 @@
 baseURL = "https://leslietang.com"
 title = "Leslie TANG"
-theme = "hugo-theme-bootstrap"
+theme = "hugo-PaperMod"
 copyright = "Copyright © 2018-{year} Leslie Tang. All Rights Reserved."
 
 # Multilingual mode
