@@ -15,6 +15,30 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
+    profileMode:
+      enabled: true
+      title: Leslie TANG
+      # imageUrl: "#"
+      # imageTitle: my image
+      # imageWidth: 120
+      # imageHeight: 120
+      subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+      buttons:
+          - name: Blog
+            url: posts
+          # - name: Tags
+          #   url: tags
+
+    # https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-icons/
+    socialIcons:
+        - name: LinkedIn
+          url: "https://www.linkedin.com/in/leslie-tang/"
+        - name: github
+          url: "https://github.com/tangweejieleslie/"
+        - name: email
+          url: "mailto:tangweejieleslie+ghpages@gmail.com"
+        # - name: dev
+        #   url: "https://dev.to/tangweejieleslie"
 
 menu:
     main:
