@@ -2,14 +2,14 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 # description: "Desc Text."
-draft: false
+draft: true 
 # weight: 1
 # aliases: ["/first"]
-tags: ["unlabelled"]
-categories: ["uncategorized"]
+tags: [""]
+categories: ["drafts"]
 author: "Leslie Tang"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 hidemeta: false
 comments: false

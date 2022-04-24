@@ -22,12 +22,12 @@ params:
       # imageTitle: my image
       # imageWidth: 120
       # imageHeight: 120
-      subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+      subtitle: "my current writings are trials to find my content creation fit"
       buttons:
-          - name: Blog
+          - name: Writings
             url: posts
-          # - name: Tags
-          #   url: tags
+          - name: Resume
+            url: "https://leslietang.com/files/resume_14Jan2022.pdf"
 
     # https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-icons/
     socialIcons:
